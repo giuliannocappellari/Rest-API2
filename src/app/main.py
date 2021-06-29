@@ -72,3 +72,4 @@ def cotacao(tamanho, ano, garagem):
 
 #reinicia a API quando o código for alterado
 app.run(debug=True, host='0.0.0.0')
+#oi
